@@ -30,3 +30,10 @@ main h3 {
     margin-top: 3em;
     font-size: 105%;
 }
+li {
+    line-height: 1.5em;
+}
+footer {
+    text-align: center;
+    font-size: 80%;
+}
