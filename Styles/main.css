@@ -24,7 +24,7 @@ header {
     text-shadow: 2px 2px 2px rgb(128, 0, 0);
 }
 main {
-    clear: both;
+    clear: left;
 }
 main h3 {
     margin-top: 3em;
