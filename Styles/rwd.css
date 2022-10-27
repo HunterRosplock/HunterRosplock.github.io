@@ -90,8 +90,7 @@ section a{
     text-decoration: none;
     color: white;
 }    
-.menu a:hover,
-a.current{
+.menu a:hover, a.current{
     text-decoration: underline;
 }
 article{
