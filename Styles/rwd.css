@@ -106,7 +106,7 @@ article p{
 article img{
     margin: auto;
     display: block;
-    width: 85%;
+    width: 100%;
     max-width: 760px;
 }
 footer{
