@@ -37,3 +37,6 @@ html, body {
     table.third {
         vertical-align: top;
     }
+    table.third th {
+        background-color: lightgreen;
+    }
