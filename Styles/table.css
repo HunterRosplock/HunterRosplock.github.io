@@ -38,13 +38,13 @@ html, body {
         border-collapse: collapse;
         caption-side: top;
     }
-    table.third th caption {
+    table.third th {
         background-color: lightgreen;
     }
-    table.third thead tr:first-child {
+    table.third tr:first-child tr:nth-child(2) tr:last-child {
         border-top: 2px orange;
     }
-    table.third th, table.third td caption {
+    table.third th, table.third td {
         padding: 0.7em;
         vertical-align: top;
     }
