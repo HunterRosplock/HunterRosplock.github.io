@@ -38,7 +38,7 @@ html, body {
         border-collapse: collapse;
         caption-side: top;
     }
-    table.third th {
+    table.third thead {
         background-color: lightgreen;
     }
     table.third tr:first-child tr:nth-child(2) tr:last-child {
