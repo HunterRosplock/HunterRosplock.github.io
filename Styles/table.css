@@ -41,8 +41,7 @@ html, body {
         background-color: lightgreen;
     }
     tr:first-child tr:nth-child(2) tr:last-child {
-        border-top: 2px solid orange;
-        border-bottom: 2px solid orange;
+        
     }
     table.third th, table.third td {
         padding: 0.7em;
